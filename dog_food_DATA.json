@@ -1,0 +1,334 @@
+{
+    "dogFood": [
+        {
+            "productBrand": "Briantos",
+            "productName": "Lamb and rice",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "21",
+            "image": "/images/product_images/dog_food/IMG_0680.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "All small dogs",
+            "rating":"5",
+            "productAge": "mini adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "18",
+            "image": "/images/product_images/dog_food/IMG_0681.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Medium dog",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "25",
+            "image": "/images/product_images/dog_food/IMG_0682.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Maxi dogs",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "28",
+            "image": "/images/product_images/dog_food/IMG_0683.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Puppy Maxi dogs",
+            "rating":"2",
+            "productAge": "puppy",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "19",
+            "image": "/images/product_images/dog_food/IMG_0684.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Giant dogs",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "32",
+            "image": "/images/product_images/dog_food/IMG_0685.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Medium dogs",
+            "rating":"5",
+            "productAge": "senior",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "26",
+            "image": "/images/product_images/dog_food/IMG_0686.JPG"
+        },
+        {
+            "productBrand": "Brit",
+            "productName": "Premium by nature - sensitive",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "25",
+            "image": "/images/product_images/dog_food/IMG_0688.JPG"
+        },
+        {
+            "productBrand": "Brit",
+            "productName": "Grain FREE, light & sterilised",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "35",
+            "image": "/images/product_images/dog_food/IMG_0689.JPG"
+        },
+        {
+            "productBrand": "Brit",
+            "productName": "Grain FREE, Salmon",
+            "rating":"2",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "32",
+            "image": "/images/product_images/dog_food/IMG_0690.JPG"
+        },
+        {
+            "productBrand": "Brit",
+            "productName": "Grain FREE, Senior & light",
+            "rating":"4",
+            "productAge": "senior",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "35",
+            "image": "/images/product_images/dog_food/IMG_0691.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Salmon with spinach",
+            "rating":"1",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "21",
+            "image": "/images/product_images/dog_food/IMG_0692.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Lamb with salmon",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "20",
+            "image": "/images/product_images/dog_food/IMG_0693.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Chicken with fish",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "20",
+            "image": "/images/product_images/dog_food/IMG_0694.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Puppy - chicken with fish",
+            "rating":"4",
+            "productAge": "puppy",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "26",
+            "image": "/images/product_images/dog_food/IMG_0695.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Sterilised",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "dry",
+            "price": "9",
+            "image": "/images/product_images/cat_food/IMG_0719.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Mini puppy",
+            "rating":"5",
+            "productAge": "puppy",
+            "productFor": "dog",
+            "typeFood": "canned",
+            "price": "7",
+            "image": "/images/product_images/dog_food/IMG_0697.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Medium dogs",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "canned",
+            "price": "8",
+            "image": "/images/product_images/dog_food/IMG_0698.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Maxi dogs",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "canned",
+            "price": "8",
+            "image": "/images/product_images/dog_food/IMG_0699.JPG"
+        },
+        {
+            "productBrand": "Rocco",
+            "productName": "Classic",
+            "rating":"1",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "canned",
+            "price": "10",
+            "image": "/images/product_images/dog_food/IMG_0700.JPG"
+        },
+        {
+            "productBrand": "Rocco",
+            "productName": "Sensitive",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "canned",
+            "price": "11",
+            "image": "/images/product_images/dog_food/IMG_0701.JPG"
+        },
+        {
+            "productBrand": "Animonda",
+            "productName": "Multi-cocktail",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "canned",
+            "price": "13",
+            "image": "/images/product_images/dog_food/IMG_0702.JPG"
+        },
+        {
+            "productBrand": "Animonda",
+            "productName": "Single protein",
+            "rating":"2",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "canned",
+            "price": "8",
+            "image": "/images/product_images/dog_food/IMG_0703.JPG"
+        },
+        {
+            "productBrand": "Animonda",
+            "productName": "Superfoods",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "canned",
+            "price": "11",
+            "image": "/images/product_images/dog_food/IMG_0704.JPG"
+        },
+        {
+            "productBrand": "Hanse pet",
+            "productName": "Cookies",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "snacks",
+            "price": "5",
+            "image": "/images/product_images/dog_food/IMG_0729.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Educ - low calorie",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "snacks",
+            "price": "6",
+            "image": "/images/product_images/dog_food/IMG_0730.JPG"
+        },
+        {
+            "productBrand": "Rinti",
+            "productName": "Dog bites",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "snacks",
+            "price": "5",
+            "image": "/images/product_images/dog_food/IMG_0731.JPG"
+        },
+        {
+            "productBrand": "Chewies",
+            "productName": "Training Maxi",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "snacks",
+            "price": "7",
+            "image": "/images/product_images/dog_food/IMG_0732.JPG"
+        },
+        {
+            "productBrand": "Hunter",
+            "productName": "Calcium Milk Bone",
+            "rating":"5",
+            "productAge": "puppy",
+            "productFor": "dog",
+            "typeFood": "snacks",
+            "price": "8", 
+            "image": "/images/product_images/dog_food/IMG_0733.JPG"
+        },
+        {
+            "productBrand": "Rocco",
+            "productName": "Chings - double",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "snacks",
+            "price": "5",
+            "image": "/images/product_images/dog_food/IMG_0735.JPG"
+        },
+        {
+            "productBrand": "Roco",
+            "productName": "Sticks with poultry",
+            "rating":"2",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "snacks",
+            "price": "3",
+            "image": "/images/product_images/dog_food/IMG_0736.JPG"
+        },
+        {
+            "productBrand": "Hanse pet",
+            "productName": "Cookies",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "snacks",
+            "price": "6",
+            "image": "/images/product_images/dog_food/IMG_0737.JPG"
+        },
+        {
+            "productBrand": "Vitakraft",
+            "productName": "Pure chicken XXL",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "dog",
+            "typeFood": "snacks",
+            "price": "8",
+            "image": "/images/product_images/dog_food/IMG_0738.JPG"
+        }
+    ]
+}

@@ -1,0 +1,334 @@
+{
+    "catFood": [
+        {
+            "productBrand": "Royal Canin",
+            "productName": "senior ageing",
+            "rating":"3",
+            "productAge": "senior",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "15",
+            "image": "/images/product_images/cat_food/IMG_0705.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Home Life Indoor",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "14",
+            "image": "/images/product_images/cat_food/IMG_0706.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Ragdoll",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "21",
+            "image": "/images/product_images/cat_food/IMG_0707.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Regural Sterilised",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "12",
+            "image": "/images/product_images/cat_food/IMG_0708.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Regural Sensible",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "12",
+            "image": "/images/product_images/cat_food/IMG_0709.JPG"
+        },
+        {
+            "productBrand": "Animonda",
+            "productName": "Vom Feinsten Deluxe",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "18",
+            "image": "/images/product_images/cat_food/IMG_0710.JPG"
+        },
+        {
+            "productBrand": "Animonda",
+            "productName": "Vom Feinsten Deluxe",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "16",
+            "image": "/images/product_images/cat_food/IMG_0711.JPG"
+        },
+        {
+            "productBrand": "Animonda",
+            "productName": "Vom Feinsten Deluxe",
+            "rating":"2",
+            "productAge": "kitten",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "16",
+            "image": "/images/product_images/cat_food/IMG_0712.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Chicken with fish",
+            "rating":"4",
+            "productAge": "kitten",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "20",
+            "image": "/images/product_images/cat_food/IMG_0713.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Sterilised chicken with fish",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "22",
+            "image": "/images/product_images/cat_food/IMG_0714.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Fish",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "22",
+            "image": "/images/product_images/cat_food/IMG_0715.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Lamb with fish",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "24",
+            "image": "/images/product_images/cat_food/IMG_0716.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Sterilised turkey with chicken",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "24",
+            "image": "/images/product_images/cat_food/IMG_0717.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Large chicken with fish",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "22",
+            "image": "/images/product_images/cat_food/IMG_0718.JPG"
+        },
+        {
+            "productBrand": "Purizon",
+            "productName": "Large chicken with fish",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "dry",
+            "price": "22",
+            "image": "/images/product_images/cat_food/IMG_0718.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Sterilised",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "canned",
+            "price": "9",
+            "image": "/images/product_images/cat_food/IMG_0719.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "senior ageing",
+            "rating":"2",
+            "productAge": "senior",
+            "productFor": "cat",
+            "typeFood": "canned",
+            "price": "11",
+            "image": "/images/product_images/cat_food/IMG_0720.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Indoor sterilised",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "canned",
+            "price": "9",
+            "image": "/images/product_images/cat_food/IMG_0721.JPG"
+        },
+        {
+            "productBrand": "Royal Canin",
+            "productName": "Sterilised mousse",
+            "rating":"2",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "canned",
+            "price": "10",
+            "image": "/images/product_images/cat_food/IMG_0722.JPG"
+        },
+        {
+            "productBrand": "Animonda",
+            "productName": "Carny with beef and deer",
+            "rating":"1",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "canned",
+            "price": "11",
+            "image": "/images/product_images/cat_food/IMG_0724.JPG"
+        },
+        {
+            "productBrand": "Animonda",
+            "productName": "Carny single protein with beef",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "canned",
+            "price": "10",
+            "image": "/images/product_images/cat_food/IMG_0725.JPG"
+        },
+        {
+            "productBrand": "Animonda",
+            "productName": "Carny beef with chicken and cheese ",
+            "rating":"1",
+            "productAge": "senior",
+            "productFor": "cat",
+            "typeFood": "canned",
+            "price": "13",
+            "image": "/images/product_images/cat_food/IMG_0726.JPG"
+        },
+        {
+            "productBrand": "Whiskas",
+            "productName": "Wings selections",
+            "rating":"2",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "canned",
+            "price": "8",
+            "image": "/images/product_images/cat_food/IMG_0727.JPG"
+        },
+        {
+            "productBrand": "Whiskas",
+            "productName": "Fish favourites in jelly",
+            "rating":"2",
+            "productAge": "kitten",
+            "productFor": "cat",
+            "typeFood": "canned",
+            "price": "8",
+            "image": "/images/product_images/cat_food/IMG_0728.JPG"
+        },
+        {
+            "productBrand": "My star",
+            "productName": "Chicken snacks",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "snacks",
+            "price": "10",
+            "image": "/images/product_images/cat_food/IMG_0739.JPG"
+        },
+        {
+            "productBrand": "Smilla",
+            "productName": "Hearties",
+            "rating":"3",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "snacks",
+            "price": "6",
+            "image": "/images/product_images/cat_food/IMG_0740.JPG"
+        },
+        {
+            "productBrand": "Feringa",
+            "productName": "Crunchy bites with beef",
+            "rating":"1",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "snacks",
+            "price": "5",
+            "image": "/images/product_images/cat_food/IMG_0741.JPG"
+        },
+        {
+            "productBrand": "Feringa",
+            "productName": "Double bites with beef",
+            "rating":"2",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "snacks",
+            "price": "5",
+            "image": "/images/product_images/cat_food/IMG_0742.JPG"
+        },
+        {
+            "productBrand": "Purina",
+            "productName": "Crispies",
+            "rating":"2",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "snacks",
+            "price": "8", 
+            "image": "/images/product_images/cat_food/IMG_0743.JPG"
+        },
+        {
+            "productBrand": "Happy Cat",
+            "productName": "Crunchy snack",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "snacks",
+            "price": "8",
+            "image": "/images/product_images/cat_food/IMG_0744.JPG"
+        },
+        {
+            "productBrand": "Dreamies",
+            "productName": "Dreamies mix",
+            "rating":"5",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "snacks",
+            "price": "5",
+            "image": "/images/product_images/cat_food/IMG_0745.JPG"
+        },
+        {
+            "productBrand": "Dreamies",
+            "productName": "Dreamies with cheese",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "snacks",
+            "price": "5",
+            "image": "/images/product_images/cat_food/IMG_0746.JPG"
+        },
+        {
+            "productBrand": "Dreamies",
+            "productName": "Dreamies with catnip",
+            "rating":"4",
+            "productAge": "adult",
+            "productFor": "cat",
+            "typeFood": "snacks",
+            "price": "5",
+            "image": "/images/product_images/cat_food/IMG_0747.JPG"
+        }
+    ]
+}

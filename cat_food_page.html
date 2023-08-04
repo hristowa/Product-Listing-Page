@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ZooWeb</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="product-page-style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <!-- Navigation menu -->
+    <div class="nav-parent">
+      <nav class="navbar">
+        <a href="index.html"
+          ><img src="images/website-logo.png" alt="Logo" class="website-logo"
+        /></a>
+        <h1 class="brand-title">PAWsome Pet Foods</h1>
+        <a href="#" class="toggle-button">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </a>
+        <div class="navbar-links">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about_page.html">About us</a></li>
+            <li><a href="dog_food_page.html">Dog food</a></li>
+            <li><a href="cat_food_page.html">Cat food</a></li>
+            <li><a href="contact_page.html">Contact us</a></li>
+          </ul>
+        </div>
+        <div class="profile-shop">
+          <a href="#"
+            ><img
+              src="images/profile-login-logo.png"
+              alt="profile"
+              class="profile-logo"
+          /></a>
+          <a href="#"
+            ><img
+              src="images/shopping cart logo.png"
+              alt="shopping cart"
+              class="shopping-cart-logo"
+          /></a>
+        </div>
+      </nav>
+    </div>
+    <!-- Navigation menu -END- -->
+    <!-- Heading, sort -->
+    <h1 class="category-heading">
+      Unleash the Flavors<br />
+      Purr-fectly Delicious Cat Treats!
+    </h1>
+    <h5 class="category-info">
+      Indulge your feline friend with the finest selection of cat food from top
+      brands like Royal Canin, Purizon, Animonda, Whiskas, Dreamies, Feringa,
+      and Smilla. Our premium cat food is carefully crafted to offer a perfect
+      blend of taste and nutrition, ensuring your furry companion stays happy
+      and healthy. From irresistible textures to delectable flavors, each bite
+      is a delightful experience your kitty will adore. Treat your beloved pet
+      to these gourmet delights and watch their whiskers twitch with joy!
+    </h5>
+    <div class="sorting">
+      <label for="sort">Sort by:</label>
+      <select id="sort">
+        <option>&#128062; Choose &#128062;</option>
+        <option value="az">Alphabetical A-Z</option>
+        <option value="za">Alphabetical Z-A</option>
+        <option value="priceAsc">Price Ascending</option>
+        <option value="priceDesc">Price Descending</option>
+      </select>
+    </div>
+    <!-- Heading, sort-END- -->
+
+    <!-- Products and filter --> 
+    <div class="container">
+     <div class="filterDiv">
+      <label for="productBrandFilter" class="filter-heading">Product Brand:</label>
+      <select id="productBrandFilter">
+        <option value="" class="filter-option">All</option>
+      </select>  
+         <br>
+      <label for="ratingFilter"  class="filter-heading">Rating:</label>
+      <select id="ratingFilter">
+        <option value="" class="filter-option">All</option>
+      </select>
+          <br>
+      <label for="typeFoodFilter"  class="filter-heading">Type Food:</label>
+      <select id="typeFoodFilter">
+        <option value="" class="filter-option">All</option>
+      </select>
+        <br>
+    <div class="product-list">
+    </div>
+  </div>
+
+    <p class="product-count">Total Products: 0</p>
+  
+
+    <!--Products adn filter END-->
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-content">
+        <h2 class="footer-heading">Dive into a World of Tasty Delights!</h2>
+        <p class="footer-text">
+          At "Pawsome Pet Foods," we are passionate about providing the finest
+          selection of premium dog and cat food. Our carefully curated menu
+          features delicious and nutritious options to satisfy even the most
+          discerning taste buds of your furry companions.Treat your loyal
+          friends to a gastronomic adventure they'll love - shop now and unleash
+          the flavors of happiness!"
+        </p>
+        <h3>Contact us!</h3>
+        <a href="#" class="fa fa-facebook"></a>
+        <a href="#" class="fa fa-twitter"></a>
+        <a href="#" class="fa fa-linkedin"></a>
+        <a href="#" class="fa fa-google"></a>
+        <a href="#" class="fa fa-instagram"></a>
+      </div>
+    </footer>
+    <!-- PoPUP image -->
+    <img
+      src="images/claw.png"
+      alt="Pop-up Image"
+      class="popup-img"
+      id="popupImg"
+    />
+
+    <script src="index.js"></script>
+    <script src="cat_food_page.js"></script>
+
+   
+  </body>
+</html>
