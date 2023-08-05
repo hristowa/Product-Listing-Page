@@ -73,3 +73,6 @@ The "Load more" button has not been included in the project due to issues with t
 ![pr![product-page3](https://github.com/hristowa/Product-Listing-Page/assets/119531049/ddc9a3a3-4c84-4cc1-9f7f-ef900903c9f2)
 oduct-page2](https://github.com/hristowa/Product-Listing-Page/assets/119531049/8ca1fc5b-e01c-4ac0-ad94-bda9f337ab40)
 ![roduct-page4](https://github.com/hristowa/Product-Listing-Page/assets/119531049/6372435c-c5c4-4309-9a80-19b0dabdbed7)
+![responsive-design0](https://github.com/hristowa/Product-Listing-Page/assets/119531049/84d94398-8839-40b6-9e76-4bcc32c9d8ed)
+![responsive-design](https://github.com/hristowa/Product-Listing-Page/assets/119531049/07370ccf-568a-43f0-99c3-752815422ef0)
+
